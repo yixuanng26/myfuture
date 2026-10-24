@@ -27,7 +27,7 @@
 
 | Resource | Link |
 | :--- | :--- |
-| **GitHub Repository** | [https://github.com/yixuanng26/SDC_HACKATHON_SUBMISSION](https://github.com/yixuanng26/SDC_HACKATHON_SUBMISSION) |
+| **GitHub Repository** | [https://github.com/yixuanng26/myfuture](https://github.com/yixuanng26/myfuture) |
 | **Replit Project** | [https://replit.com/@yixuanng26/MyFuture-Career-Guidance](https://replit.com/@yixuanng26/MyFuture-Career-Guidance) |
 | **Live Demo** | [https://my-future-career-guidance.replit.app](https://my-future-career-guidance.replit.app) |
 | **Demo / Pitch Video** | [https://youtu.be/HEiM3aZ5l18](https://youtu.be/HEiM3aZ5l18) |
