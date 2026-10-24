@@ -32,7 +32,7 @@ def call_deepseek_chat(user_message):
             return str(output)
         return "Thinking... (No text output received)"
     except Exception as e:
-        print("❌ DeepSeek API call error:", e)
+        print("DeepSeek API call error:", e)
         return "Sorry, I am having trouble reaching DeepSeek right now."
 
 @app.route("/api/chat", methods=["POST"])
